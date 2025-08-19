@@ -1,7 +1,8 @@
-## Hi there 👋
-This is my repositry where I put most of my trainings and ideas in my free time. Some of the projects are a kind of 'drafts' or 'coding diaries', thus please do not be discoureged hen seeing some ugly parts 😄 There are repositories which comfirms with clean code priciples, just be patient and search for them along the others or drop me a line! 📫
-🔭 I’m currently working on Java-Python Gen AI chatbot integration 
-⚡ I'm also a big fan of Warhmmer thus one can find unofficial apps related to the system and tabletop game 
+# Hi there 👋
+### This is my repositry where I put most of my trainings and ideas in my free time. Some of the projects are a kind of 'drafts' or 'coding diaries', thus please do not be discoureged hen seeing some ugly parts 😄  There are repositories which comfirms with clean code priciples, just be patient and search for them along the others or drop me a line! 📫 <br>
+  <br>
+🔭 I’m currently working on Java-Python Gen AI chatbot integration <br>
+⚡ I'm also a big fan of Warhmmer thus one can find unofficial apps related to the system and tabletop game  <br>
 <!--
 **PiastkaR/PiastkaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
